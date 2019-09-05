@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
+name: 程橙有个小橙子
+email: m18419067500@163.com
+author: CLR
+url: http://IAmChengZi.github.io
 resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
+github: https://github.com/iamchengzi/
+baseurl: ""
 description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+meta_description: 程蕾蓉;个人博客;热爱生命;用心生活;努力向上;顺其自然
+motto: Life sucks,but you are gonna like it.
+banner: 梦想很容易丢，所以要快点抓住。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,8 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
-
+github_username: iamchengzi
 # Build settings
 markdown: kramdown
 
