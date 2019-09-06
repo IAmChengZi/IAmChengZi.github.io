@@ -20,7 +20,10 @@ tag: github & Jeykll
 对Github的初步了解     
 ====================================
 
-在B站上找的视频让我对GitHub上众多的英文单词有了了解，下面简单说下吧：{#test}
+在B站上找的视频让我对GitHub上众多的英文单词有了了解，下面简单说下吧：
 repositories:仓库，用来存项目的东东
 star:关注，相当于微博上的关注，可以看star的repositories的动态
 fork：复制，对想要使用的项目可以copy到自己的repositories里
+
+zenmo nong zhe ge
+------------------------------
