@@ -2,8 +2,8 @@
 layout: post
 title:  几天学习GitHub和Jekyll的学习总结
 date:   2019-09-06 00:00:00 +0800
-categories: document
-tag: 教程
+categories: Summaries
+tag: github & Jeykll
 ---
 
 * content
