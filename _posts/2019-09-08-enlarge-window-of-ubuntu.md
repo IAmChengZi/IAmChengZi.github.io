@@ -9,12 +9,13 @@ tag: Ubuntu
 * content
 {:toc}
 
-记录一下在VMWare中放大Ubuntu 18的窗口  
------------------------------------------
 
 1.安装下面这条命令    
+
   `sudo  apt-get installopen-vm-tools `  
+
 2.显示无效命令的话执行下面这条命令    
   `sudo apt-get install open-vm* `  
+
 3.重启    
   `reboot`
